@@ -1,0 +1,28 @@
+name: Dr. J
+favicon: null
+layout_spectrum: 0.47331697726622224
+typography_spectrum: 0.9874233540613204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10228821355849504
+  lightness: 0.23160593351349235
+  saturation: 0.01696730451658368
+  rhythmicContrast: 0.8378783445805311
+purpose: []
